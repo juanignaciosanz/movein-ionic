@@ -1,0 +1,8 @@
+{
+  "name": "movein",
+  "app_id": "1f6fa94d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
